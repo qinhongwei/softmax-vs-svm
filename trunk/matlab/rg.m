@@ -1,0 +1,2 @@
+clear GLOBAL GPUID;
+clear GLOBAL FERMI;
