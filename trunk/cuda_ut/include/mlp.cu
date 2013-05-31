@@ -403,5 +403,3 @@ template class clLayerFC<float>;
 template class clLayerFC<double>;
 
 
-
-#endif
