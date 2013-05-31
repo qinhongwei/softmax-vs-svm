@@ -1642,7 +1642,4 @@ template int loss_l2_tsvm<double>(const clMatrix<double>& NodesOut, const clMatr
 
 
 
-#endif
-
-
 
